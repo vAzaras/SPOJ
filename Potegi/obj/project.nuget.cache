@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vTWYY67qwQxNpf3SNa1Zh7W3DuDtonIjM6IXW3Sx5asH9ALfKafgfGmhivASGZTJ3cV3xGzucsuIlBPXPhoWWA==",
+  "dgSpecHash": "ucMgpRV5bog/K9nt+ojVgYMXFek9+X19YtXXoA7PkUY6Y8kfUaSAvDMuKdJBCXlhVzfqBvn2dj3FpkQx4aneZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adaml\\source\\repos\\SPOJ\\Potegi\\PA05_POT.csproj",
+  "projectFilePath": "/Users/adamski/Projects/SPOJ/Potegi/PA05_POT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

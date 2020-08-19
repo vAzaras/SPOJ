@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+f7027WTvBbm2uRFmtiWn06bPoYtxq7sE8x7DFPAfSZV8+ITKOlghzg8tFSkdSJmhSvAlYB9vGb5ROKdQ5Ewg==",
+  "dgSpecHash": "KX0GftFs43vmB78i7rGINPUKsEgy5HKBNUKGRN4haLjP1CKehucIblim2sRMKl7A6aA0morEmPREagECsDx6WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adaml\\source\\repos\\SPOJ\\PP0502B\\PP0502B.csproj",
+  "projectFilePath": "/Users/adamski/Projects/SPOJ/PP0502B/PP0502B.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

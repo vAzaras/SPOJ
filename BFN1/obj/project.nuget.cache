@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OMBojU7ieDkJSWV8vJhVB8lOzL78iS6duVl36M0r7AjvtAwJQgM9q/ikc+JQ3TEtwPnd99lz89mQJV/asE0Aw==",
+  "dgSpecHash": "WsNTmDVP2Ld8uFredNyf3SuBQDrgnmwycaX1OUvKUQ1A/kKS6FuznR++AQqNlr6Iot5nFo9VpRpAew2jDUsnnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adaml\\source\\repos\\SPOJ\\BFN1\\BFN1.csproj",
+  "projectFilePath": "/Users/adamski/Projects/SPOJ/BFN1/BFN1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "decMrkR2xDzCfbtouDVDoU/Q0kKG97/uBvtYeQSlUSTUVpnDi4GW8b59AL4cVSY/iAAzQoLj1solx+PrZUcQYA==",
+  "dgSpecHash": "hCXt1gyeM9lKJ1nLEj9Easq4kaI/fpsuCJj7OkhBQuIBMNBIhTLoL6JF3xJkqrTljs/i89NiGF0k+GMfx4FJjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adaml\\source\\repos\\SPOJ\\RNO_DOD\\RNO_DOD.csproj",
+  "projectFilePath": "/Users/adamski/Projects/SPOJ/RNO_DOD/RNO_DOD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
